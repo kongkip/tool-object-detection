@@ -1,0 +1,6 @@
+models/my_faster_rcnn_inception/train
+pre-trained-models/
+
+annotations/
+images/
+exported-models/
